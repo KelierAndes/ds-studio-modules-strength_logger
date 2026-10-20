@@ -2,7 +2,7 @@
 META = {
     "id": "strength_logger",
     "name": "强度日志示例",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "演示模块 API：订阅强度变化写入应用日志（每设备限速 1 条/秒）。"
                    "可作为开发新模块的模板。",
 }
